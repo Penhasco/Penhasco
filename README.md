@@ -19,7 +19,7 @@
 - LinkedIn: [antoniopenhac](https://www.linkedin.com/in/antoniopenhac/)
 
 🛠 **Skills & Technologies:**
-- Languages: Java, JavaScript, Typescript, C, C#, C++, CSS, HTML, Prolog, Python, React, SQL, NoSQL R, PowerShell, Assembly.
+- Languages: Java, JavaScript, Typescript, C, C#, C++, CSS, HTML, Prolog, Python, React, SQL, NoSQL, R, PowerShell, Assembly.
 - Technologies:  API tools (Mulesoft API, RESTful API, GraphQL API), Cloud tools(AWS, Azure, Google Cloud), deployment tools (Docker, Kubernetes), RDBMS (PostgreSQL, MySQL)
 - Cybersecurity: Ethical Hacking, Encryption, Network Security, Firewalls.
 
