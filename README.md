@@ -1,5 +1,5 @@
 # António Penha
-👋 Hi there, I'm António - a Tech Innovator with a strong footing in Software Development and Cybersecurity technologies. With a Bachelor of Engineering in Computer Science from Instituto Superior Técnico, Lisbon, I've developed a unique blend of skills that fuel innovation and ensure robust security in the digital world.
+👋 Hi there, I'm António - a Tech Innovator with a strong footing in AI and Cybersecurity technologies in Web3. With a Bachelor of Engineering in Computer Science from Instituto Superior Técnico, Lisbon, I've developed a unique blend of skills that fuel innovation and ensure robust security in the digital world.
 
 🔭 **Current Work:**
 - Developing cutting-edge SAAS solutions to enhance digital visibility for local companies.
@@ -12,7 +12,7 @@
 
 💬 **Ask me about:**
 - CI/CD stategies for Software development
-- AI strategies for elimination of repetitive tasks through automations and VA (in the works)
+- AI strategies for elimination of repetitive tasks through automations and VA
 - Cybersecurity strategies, from foundational practices to advanced threat modeling and mitigation techniques.
 
 📫 **How to reach me:**
@@ -21,7 +21,7 @@
 🛠 **Skills & Technologies:**
 - Languages: Java, JavaScript, Typescript, C, C#, C++, CSS, HTML, Prolog, Python, React, SQL, NoSQL, R, PowerShell, Assembly.
 - Technologies:  API tools (Mulesoft API, RESTful API, GraphQL API), Cloud tools(AWS, Azure, Google Cloud), deployment tools (Docker, Kubernetes), RDBMS (PostgreSQL, MySQL)
-- Cybersecurity: Ethical Hacking, Encryption, Network Security, Firewalls.
+- Cybersecurity: Ethical Hacking, Encryption, Network Security, Compliance.
 
 🎓 **Education:**
 - Bachelor of Engineering (Computer Science), Instituto Superior Técnico, Lisbon Portugal, 2023.
