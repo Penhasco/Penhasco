@@ -1,32 +1,32 @@
-# António Penha
-👋 Hi there, I'm António - a Tech Innovator with a strong footing in AI and Cybersecurity technologies in Web3. With a Bachelor of Engineering in Computer Science from Instituto Superior Técnico, Lisbon, I've developed a unique blend of skills that fuel innovation and ensure robust security in the digital world.
+António Casals
+GTM Systems Engineer and AI-Native Operator bridging the gap between technical infrastructure and commercial revenue. B.Sc. in Computer Science and Engineering from Instituto Superior Técnico.
 
-🔭 **Current Work:**
-- Developing cutting-edge SAAS solutions to enhance digital visibility for local companies.
-- Innovating in cybersecurity with a focus on encryption, network security, and ethical hacking. 
-- I'm constantly exploring new ways to safeguard digital assets.
+Currently Working On:
 
-🌱 **I'm currently learning:**
-- Learning More about the use of AI through langchain and RAG for LLMs.
-- Latest trends in AI-powered cybersecurity measures, deepening my knowledge in areas like machine learning and natural language processing to anticipate and neutralize threats.
+Architecting AI-powered lead sourcing systems and agentic workflows at Resolve Flow.
 
-💬 **Ask me about:**
-- CI/CD stategies for Software development
-- AI strategies for elimination of repetitive tasks through automations and VA
-- Cybersecurity strategies, from foundational practices to advanced threat modeling and mitigation techniques.
+Replacing static GTM playbooks with automated, embedded execution using n8n, LangChain, and CRM integrations.
 
-📫 **How to reach me:**
-- LinkedIn: [antoniopenhac](https://www.linkedin.com/in/antoniopenhac/)
+Translating complex technical bottlenecks into scalable revenue operations.
 
-🛠 **Skills & Technologies:**
-- Languages: Java, JavaScript, Typescript, C, C#, C++, CSS, HTML, Prolog, Python, React, SQL, NoSQL, R, PowerShell, Assembly.
-- Technologies:  API tools (Mulesoft API, RESTful API, GraphQL API), Cloud tools(AWS, Azure, Google Cloud), deployment tools (Docker, Kubernetes), RDBMS (PostgreSQL, MySQL)
-- Cybersecurity: Ethical Hacking, Encryption, Network Security, Compliance.
+Ask Me About:
 
-🎓 **Education:**
-- Bachelor of Engineering (Computer Science), Instituto Superior Técnico, Lisbon Portugal, 2023.
+Building autonomous AI agents for B2B acquisition.
 
-🌟 **Certifications:**
-- IBM Cybersecurity Fundamentals
+Cross-functional GTM orchestration and CRM automation.
 
-Let's connect and explore innovative solutions together!
+Data-driven pipeline optimization using Python and SQL.
+
+Connect:
+
+LinkedIn: /in/antoniopenhac
+
+Tech Stack:
+
+GTM & Automation: n8n, Make.com, Zapier, Clay, HubSpot, Salesforce.
+
+AI & LLMs: LangChain, LangGraph, OpenAI APIs, Prompt Engineering.
+
+Programming & Data: Python, JavaScript, SQL, Java, C, C++, C#, React.
+
+Infrastructure & Security: RESTful APIs, Webhooks, Git, Docker, Kubernetes, Azure, AWS.
