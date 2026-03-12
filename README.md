@@ -17,10 +17,6 @@ Cross-functional GTM orchestration and CRM automation.
 
 Data-driven pipeline optimization using Python and SQL.
 
-Connect:
-
-LinkedIn: /in/antoniopenhac
-
 Tech Stack:
 
 GTM & Automation: n8n, Make.com, Zapier, Clay, HubSpot, Salesforce.
